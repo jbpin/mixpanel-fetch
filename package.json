@@ -1,23 +1,23 @@
 {
-  "name": "mixpanel",
-  "description": "A simple server-side API for mixpanel",
+  "name": "mixpanel-fetch",
+  "description": "A simple API library for mixpanel using fetch",
   "keywords": [
     "mixpanel",
     "analytics",
     "api",
     "stats"
   ],
-  "version": "0.4.0",
-  "homepage": "https://github.com/mixpanel/mixpanel-node",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jbpin/mixpanel-fetch",
   "author": "Carl Sverre",
   "license": "MIT",
-  "main": "lib/mixpanel-node",
+  "main": "lib/mixpanel-fetch",
   "directories": {
     "lib": "lib"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/mixpanel/mixpanel-node.git"
+    "url": "http://github.com/jbpin/mixpanel-fetch.git"
   },
   "engines": {
     "node": ">=0.10.0"
