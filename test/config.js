@@ -1,4 +1,4 @@
-var Mixpanel = require('../lib/mixpanel-node');
+var Mixpanel = require('../lib/mixpanel-fetch');
 
 exports.config = {
     setUp: function(cb) {

@@ -1,4 +1,4 @@
-var Mixpanel = require('../lib/mixpanel-node'),
+var Mixpanel = require('../lib/mixpanel-fetch'),
     Sinon    = require('sinon'),
     http     = require('http'),
     events   = require('events');
